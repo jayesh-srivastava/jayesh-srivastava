@@ -29,11 +29,12 @@
   <img align="left" width="26px" src="/Assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/jayesh-srivastava/">
-  <img align="left" width="26px" src="/Assets/linkedin (4).png" />
+  <img align="left" width="28px" src="/Assets/linkedin (4).png" />
 </a>
 
 <br />
 <br />
+<p>&nbsp;</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jayesh-srivastava&theme=algolia&show_icons=true" alt="Jayesh's Github Stats" />
 <br />
