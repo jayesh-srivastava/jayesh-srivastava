@@ -38,6 +38,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jayesh-srivastava&theme=algolia&show_icons=true" alt="Jayesh's Github Stats" />
 <br />
-![](https://komarev.com/ghpvc/?username=jayesh-srivastava&label=visitors&style=flat-square&color=blue)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jayesh-srivastava.jayesh-srivastava&title=visitors)
 
 
