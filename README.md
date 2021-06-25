@@ -25,7 +25,7 @@
 - I am an open source enthusiast and learning to contribute towards it. </br>
 
 ### Tech I'm familiar with 💻	
-<img src"https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30"/>
+<img src"/Assets/java.png" width="30"/>
 
 ### My Experiences 🙌
 - [CNCF Ambassador](https://www.cncf.io/people/ambassadors/) - CNAs are individuals who are passionate about CNCF technology and projects, recognized for their expertise, and willing to help others learn about the framework and community.
