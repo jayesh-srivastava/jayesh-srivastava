@@ -22,20 +22,14 @@
 
 ### Let's Connect
 
-<a href="https://www.linkedin.com/in/jayesh-srivastava/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" '#007bff' />
+<a href="mailto:jayesh0200@gmail.com">
+  <img align="left" width="24px" src="/Assets/gmail.png" />
 </a>
 <a href="https://twitter.com/jayeshstwter">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="26px" src="/Assets/twitter.png" />
 </a>
-<a href="mailto:kunalkushwaha453@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="http://dev.to/kunal">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://www.linkedin.com/in/jayesh-srivastava/">
+  <img align="left" width="26px" src="/Assets/linkedin (4).png" />
 </a>
 
 <br />
