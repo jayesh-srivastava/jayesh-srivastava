@@ -7,14 +7,18 @@
 - My interests include Mobile Development, working with Cloud technologies and DevOps. </br>
 - I am an open source enthusiast and learning to contribute towards it. </br>
 
+
 ### Tech I'm familiar with 💻	
 <img src="/Assets/java.png" width="27"/>&ensp; <img src="/Assets/go.png" width="30"/>&ensp; <img src="/Assets/python.png" width="30"/>&ensp; <img src="/Assets/html (2).png" width="27"/>&ensp; <img src="/Assets/css.png" width="27"/>&ensp; <img src="/Assets/android.png" width="30"/>&ensp; <img src="/Assets/firebase.png" width="23"/>&ensp; <img src="/Assets/gcp.png" width="32"/>&ensp; <img src="/Assets/aws (1).png" width="33"/>&ensp; <img src="/Assets/docker.png" width="33"/>&ensp; <img src="/Assets/kubernetes.png" width="30"/>&ensp; <img src="/Assets/git.png" width="30"/>&ensp;
+
 
 ### My Experiences 👨‍💻	
 - Android Developer Intern @ [EzeeHealth](http://ezeehealth.in/)- Designed and developed three live android applications with Java. Worked with outside data sources and APIs. Effectively collaborated with a team and provided regular updates to the applications.
 
+
 ### My Accomplishments 🏅
 - HackerRank Certified Java(Basic) - [Link to the certificate](https://www.hackerrank.com/certificates/f12875dd73f0)
+
 
 ### Let's Connect
 
@@ -34,6 +38,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
+<br />
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=jayesh-srivastava&theme=algolia&show_icons=true" alt="Jayesh's Github Stats" />
