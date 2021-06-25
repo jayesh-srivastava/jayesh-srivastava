@@ -29,7 +29,7 @@
   <img align="left" width="26px" src="/Assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/jayesh-srivastava/">
-  <img align="left" width="28px" src="/Assets/linkedin (4).png" />
+  <img align="left" width="29px" src="/Assets/linkedin (4).png" />
 </a>
 
 <br />
