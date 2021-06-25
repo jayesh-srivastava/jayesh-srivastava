@@ -8,7 +8,7 @@
 - I am an open source enthusiast and learning to contribute towards it. </br>
 
 ### Tech I'm familiar with 💻	
-<img src="/Assets/java.png" width="27"/>&ensp; <img src="/Assets/go.png" width="30"/>&ensp; <img src="/Assets/python.png" width="30"/>&ensp; <img src="/Assets/html.jpg" width="30"/>&ensp; <img src="/Assets/css.png" width="30"/>&ensp; <img src="/Assets/android.png" width="30"/>&ensp; <img src="/Assets/firebase.png" width="23"/>&ensp; <img src="/Assets/gcp.png" width="32"/>&ensp; <img src="/Assets/aws (1).png" width="33"/>&ensp; <img src="/Assets/docker.png" width="33"/>&ensp; <img src="/Assets/kubernetes.png" width="30"/>&ensp; <img src="/Assets/git.png" width="30"/>&ensp;
+<img src="/Assets/java.png" width="27"/>&ensp; <img src="/Assets/go.png" width="30"/>&ensp; <img src="/Assets/python.png" width="30"/>&ensp; <img src="/Assets/html.jpg" width="28"/>&ensp; <img src="/Assets/css.png" width="28"/>&ensp; <img src="/Assets/android.png" width="30"/>&ensp; <img src="/Assets/firebase.png" width="23"/>&ensp; <img src="/Assets/gcp.png" width="32"/>&ensp; <img src="/Assets/aws (1).png" width="33"/>&ensp; <img src="/Assets/docker.png" width="33"/>&ensp; <img src="/Assets/kubernetes.png" width="30"/>&ensp; <img src="/Assets/git.png" width="30"/>&ensp;
 
 ### My Experiences 👨‍💻	
 - Android Developer Intern .[EzeeHealth](http://ezeehealth.in/)- Designed and developed three live android applications with Java. Worked with outside data sources and APIs. Effectively collaborated with a team and provided regular updates to the applications.
