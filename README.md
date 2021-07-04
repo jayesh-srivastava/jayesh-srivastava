@@ -23,13 +23,13 @@
 ### Let's Connect
 
 <a href="mailto:jayesh0200@gmail.com">
-  <img align="left" width="24px" src="/Assets/gmail.png" />
+  <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a href="https://twitter.com/jayeshstwter">
-  <img align="left" width="26px" src="/Assets/twitter.png" />
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jayesh-srivastava/">
-  <img align="left" width="27px" src="/Assets/linkedin (4).png" />
+  <img align="left" width="27px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
 <br />
