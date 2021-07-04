@@ -9,7 +9,7 @@
 
 
 ### Tech I'm familiar with 💻	
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="41" height="41"/></a> &nbsp; <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="31" height="35"/> </a> <a href="https://golang.org/" target="_blank"> <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" alt="go" width="28" height="35"/> </a> </p>
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="41" height="41"/></a> &nbsp; <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="31" height="35"/>  </a> <a href="https://golang.org/" target="_blank"> <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" alt="go" width="28" height="35"/> </a> </p>
 
 
 ### My Experiences 👨‍💻	
