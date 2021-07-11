@@ -36,8 +36,8 @@
 <br />
 <p>&nbsp;</p>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=jayesh-srivastava&title_color=5D8CB3&icon_color=4798FF&text_color=718CA1&bg_color=1D252C&ring=99CCCC&show_icons=true" />
-<img width="50%" src ="http://github-readme-streak-stats.herokuapp.com?user=jayesh-srivastava&theme=city-lights&border=DDDDDD&ring=99CCCC&dates=779ECB" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jayesh-srivastava&theme=react&show_icons=true" />
+<img width="48%" src ="http://github-readme-streak-stats.herokuapp.com?user=jayesh-srivastava&theme=react" />
 
 <br />
 
