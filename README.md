@@ -38,8 +38,8 @@
 
 <p align="center">
 
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=jayesh-srivastava&theme=react&show_icons=true" />
-  <img width="50%" src ="http://github-readme-streak-stats.herokuapp.com?user=jayesh-srivastava&theme=react" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jayesh-srivastava&theme=react&show_icons=true" />
+  <img width="49%" src ="http://github-readme-streak-stats.herokuapp.com?user=jayesh-srivastava&theme=react" />
 </p>
 
 <br />
