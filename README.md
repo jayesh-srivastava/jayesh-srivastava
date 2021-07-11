@@ -1,4 +1,4 @@
-## Hey there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Jayesh!
+## Hey there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Jayesh! Glad to see you here!
 
 
 ### A bit about me 🙋‍♂️	
@@ -29,7 +29,7 @@
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jayesh-srivastava/">
-  <img align="left" width="27px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
 <br />
