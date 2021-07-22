@@ -2,7 +2,7 @@
 
 
 ### A bit about me 🙋‍♂️	
-- I’m a junior year student from India pursuing a bachelor’s degree in Computer Science. </br>
+- I’m a senior year student from India pursuing a bachelor’s degree in Computer Science. </br>
 - I am passionate about software development and I have a zeal for learning new tech stuff. </br>
 - My interests include Mobile Development, Cloud and DevOps. </br>
 - I am an open source enthusiast and learning to contribute to it. </br>
