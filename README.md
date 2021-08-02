@@ -1,4 +1,4 @@
-## Hey there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Jayesh! Glad to see you here!
+## Hey there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Jayesh. Glad to see you here!
 
 
 ### A bit about me 🙋‍♂️	
