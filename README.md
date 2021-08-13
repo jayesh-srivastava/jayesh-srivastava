@@ -17,6 +17,7 @@
 
 
 ### My Accomplishments 🏅
+- [Postman](https://www.postman.com/) Student Expert - [My verified badge](https://badgr.com/public/assertions/NejGCGymT4-J6Zf5XqsR6Q?identity__email=jayesh0200@gmail.com)
 - HackerRank Certified Java(Basic) - [Link to the certificate](https://www.hackerrank.com/certificates/f12875dd73f0)
 
 
