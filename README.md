@@ -13,8 +13,8 @@
 
 
 ### My Experiences 👨‍💻	
-- [Linux Foundation(LFX) Mentee](https://mentorship.lfx.linuxfoundation.org/project/9e7f18e3-68ee-44f8-ac74-55e802fce8e3) with [Kubernetes](https://kubernetes.io/) -
-- Android Developer Intern @ [EzeeHealth](http://ezeehealth.in/)- Designed and developed three live android applications with Java. Worked with outside data sources and APIs. Effectively collaborated with a team and provided regular updates to the applications.
+- [Cloud Native Computing Foundation Intern](https://mentorship.lfx.linuxfoundation.org/project/9e7f18e3-68ee-44f8-ac74-55e802fce8e3) - [The Linux Foundation](https://www.linuxfoundation.org/)
+- Android Developer Intern - [EzeeHealth](http://ezeehealth.in/)- Designed and developed three live android applications with Java. Worked with outside data sources and APIs. Effectively collaborated with a team and provided regular updates to the applications.
 
 
 ### My Accomplishments 🏅
