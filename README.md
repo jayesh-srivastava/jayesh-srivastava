@@ -13,7 +13,7 @@
 
 ## My Experiences 👨‍💻
 
-- [Cloud Native Computing Foundation Intern](https://mentorship.lfx.linuxfoundation.org/project/9e7f18e3-68ee-44f8-ac74-55e802fce8e3) ([The Linux Foundation](https://www.linuxfoundation.org/)) - Working on Kubernetes and making improvements to Cluster API Provider for Google Cloud Platform(CAPG). CAPG provides Kubernetes-native declarative infrastructure of the Cluster API project for Google Cloud Platform.
+- [Cloud Native Computing Foundation Intern](https://mentorship.lfx.linuxfoundation.org/project/9e7f18e3-68ee-44f8-ac74-55e802fce8e3) ([The Linux Foundation](https://www.linuxfoundation.org/)) - Worked on Kubernetes and made improvements to Cluster API Provider for Google Cloud Platform(CAPG). CAPG provides Kubernetes-native declarative infrastructure of the Cluster API project for Google Cloud Platform.
 - Android Developer Intern ([EzeeHealth](http://ezeehealth.in/)) - Designed and developed three live android applications with Java. Worked with outside data sources and APIs. Effectively collaborated with a team and provided regular updates to the applications.
 
 ## My Accomplishments 🏅
