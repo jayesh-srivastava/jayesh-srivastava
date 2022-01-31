@@ -4,7 +4,7 @@
 
 - I’m a senior year student from India pursuing a bachelor’s degree in Computer Science. </br>
 - I'm passionate about software development and I have a zeal for learning new tech stuff. </br>
-- My interests include Android Development, Cloud and DevOps. </br>
+- My interests include Cloud, DevOps and Android Dev. </br>
 - I'm an open source enthusiast and learning to contribute to it. </br>
 
 ## Tech I'm familiar with 💻
