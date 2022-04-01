@@ -14,7 +14,7 @@
 
 ## My Experiences 👨‍💻
 
-- [Jr. Software Engineer]([Spectro Cloud](https://www.spectrocloud.com/)) - Working with the Pallete Core Team on the cluster-api project.
+- Jr. Software Engineer ([Spectro Cloud](https://www.spectrocloud.com/)) - Working with the Pallete Core Team on the cluster-api project.
 
 - [Cloud Native Computing Foundation Intern](https://mentorship.lfx.linuxfoundation.org/project/9e7f18e3-68ee-44f8-ac74-55e802fce8e3) ([The Linux Foundation](https://www.linuxfoundation.org/)) - Worked on Kubernetes and made improvements to Cluster API Provider for Google Cloud Platform(CAPG). CAPG provides Kubernetes-native declarative infrastructure of the Cluster API project for Google Cloud Platform.
 
