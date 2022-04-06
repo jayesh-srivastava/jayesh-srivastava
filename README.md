@@ -2,7 +2,6 @@
 
 ## A bit about me 🙋‍♂️
 
-- I'm a Jr. Software Engineer at Spectro Cloud.</br>
 - I’m a senior year student from India pursuing a bachelor’s degree in Computer Science. </br>
 - I'm passionate about software development and I have a zeal for learning new tech stuff. </br>
 - My interests include Cloud, DevOps and Android Dev. </br>
@@ -14,7 +13,7 @@
 
 ## My Experiences 👨‍💻
 
-- Jr. Software Engineer ([Spectro Cloud](https://www.spectrocloud.com/)) - Working with the Pallete Core Team.
+- Jr. Software Engineer ([Spectro Cloud](https://www.spectrocloud.com/)) - Currently working with the Pallete Core Team.
 
 - [Cloud Native Computing Foundation Intern](https://mentorship.lfx.linuxfoundation.org/project/9e7f18e3-68ee-44f8-ac74-55e802fce8e3) ([The Linux Foundation](https://www.linuxfoundation.org/)) - Worked on Kubernetes and made improvements to Cluster API Provider for Google Cloud Platform(CAPG). CAPG provides Kubernetes-native declarative infrastructure of the Cluster API project for Google Cloud Platform.
 
