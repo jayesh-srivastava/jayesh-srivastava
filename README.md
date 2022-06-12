@@ -1,12 +1,5 @@
 # Hey, I'm Jayesh. Glad to see you here! 
 
-## A bit about me 🙋‍♂️
-
-- I’m a senior year student from India pursuing a Bachelor’s degree in Computer Science. </br>
-- I'm passionate about software development and I have a zeal for learning new tech stuff. </br>
-- My interests include Cloud, DevOps and Android Dev. </br>
-- I'm an open source enthusiast and contributor. </br>
-
 ## Tech I'm familiar with 💻
 
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" alt="go" width="31" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="41" height="41"/> &nbsp;  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="28" height="35"/> &nbsp; <img src="https://iconape.com/wp-content/png_logo_vector/android-robot-head.png" alt="android" width="38" height="40"/>  &nbsp; <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="28" height="35"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="34"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="45" height="28"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="41" height="45"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="35" height="35"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </p>
