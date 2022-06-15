@@ -1,4 +1,4 @@
-# Hey, I'm Jayesh. Glad to see you here.
+# Hey, I'm Jayesh. Glad to see you here!
 
 ## Tech I'm familiar with 💻
 
