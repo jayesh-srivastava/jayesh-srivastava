@@ -10,11 +10,6 @@
 
 - [Cloud Native Computing Foundation Intern](https://mentorship.lfx.linuxfoundation.org/project/9e7f18e3-68ee-44f8-ac74-55e802fce8e3) ([The Linux Foundation](https://www.linuxfoundation.org/)) - Worked on Kubernetes and made improvements to Cluster API Provider for Google Cloud Platform(CAPG). CAPG provides Kubernetes-native declarative infrastructure of the Cluster API project for Google Cloud Platform.
 
-## My Accomplishments 🏅
-
-- [Postman](https://www.postman.com/) Student Expert - [My verified badge](https://badgr.com/public/assertions/NejGCGymT4-J6Zf5XqsR6Q?identity__email=jayesh0200@gmail.com)
-- HackerRank Certified Java(Basic) - [Link to the certificate](https://www.hackerrank.com/certificates/f12875dd73f0)
-
 ## Let's Connect
 
 <a href="mailto:jayesh0200@gmail.com">
